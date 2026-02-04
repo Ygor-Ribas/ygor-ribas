@@ -1,16 +1,18 @@
-## oi there 👋
+## 👋 Oi, eu sou o Ygor!
 
-<!--
-**Ygor-Ribas/ygor-ribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Aprendendo HTML, CSS e JavaScript  
+🚀 Iniciando na área de tecnologia  
 
-Here are some ideas to get you started:
+### 🧠 O que estou aprendendo
+- HTML5
+- CSS3
+- Lógica de Programação
+- JavaScript (iniciante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Objetivo
+Conseguir meu primeiro emprego na área de tecnologia e evoluir como desenvolvedor.
+
+### 📫 Contato
+- GitHub: https://github.com/Ygor-Ribas
+
