@@ -1,8 +1,14 @@
-## 👋 Oi, eu sou o Ygor!
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Aprendendo HTML, CSS e JavaScript  
-🚀 Iniciando na área de tecnologia  
+## 👋 Oi, eu sou o Ygor Ribas
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+💻 Iniciante na área de tecnologia  
+🚀 Em constante aprendizado  
+
+---
 
 ### 🧠 O que estou aprendendo
 - HTML5
@@ -10,9 +16,24 @@
 - Lógica de Programação
 - JavaScript (iniciante)
 
-### 📌 Objetivo
+---
+
+### 🎯 Meu objetivo
 Conseguir meu primeiro emprego na área de tecnologia e evoluir como desenvolvedor.
+
+---
+
+### 🛠️ Tecnologias
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+
+---
+
+### 📊 GitHub Status
+![Ygor GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygor-Ribas&show_icons=true&theme=default)
+
+---
 
 ### 📫 Contato
 - GitHub: https://github.com/Ygor-Ribas
-
