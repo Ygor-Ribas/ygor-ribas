@@ -30,10 +30,6 @@ Conseguir meu primeiro emprego na área de tecnologia e evoluir como desenvolved
 
 ---
 
-### 📊 GitHub Status
-![Ygor GitHub stats](https://github-readme-stats.vercel.app/api?username=Ygor-Ribas&show_icons=true&theme=default)
-
----
 
 ### 📫 Contato
 - GitHub: https://github.com/Ygor-Ribas
